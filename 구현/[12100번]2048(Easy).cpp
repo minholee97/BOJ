@@ -168,6 +168,5 @@ int main()
 			break;
 	}
 	cout << max << endl;
-
 	return 0;
 }
