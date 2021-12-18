@@ -1,5 +1,3 @@
-# https://www.acmicpc.net/problem/2839
-
 N = int(input())
 result = 0
 while True:
