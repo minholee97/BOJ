@@ -1,5 +1,3 @@
-// https://www.acmicpc.net/problem/1002
-
 #include <iostream>
 #include <vector>
 #include <math.h>
