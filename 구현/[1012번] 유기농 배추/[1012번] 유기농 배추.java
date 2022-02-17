@@ -52,7 +52,6 @@ public class Main {
 				int y = Integer.parseInt(inputs[1]);
 				map[x][y] = true;
 			}
-
 			for (int i = 0; i < M; i++) {
 				for (int j = 0; j < N; j++) {
 					if (map[i][j]) {
